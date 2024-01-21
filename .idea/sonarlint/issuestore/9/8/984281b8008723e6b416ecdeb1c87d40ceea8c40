@@ -1,0 +1,19 @@
+
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¬»°8ŞÕ±Ò1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8ŞÕ±Ò1
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ƒÃ¼ğ8ŞÕ±Ò1
+T
+java:S2589/"7Remove this expression which always evaluates to "true"(¼Ñï€8ŞÕ±Ò1
+F
+java:S1481
+")Remove this unused "stmt" local variable.(–ÔÀ¡8ãÕ±Ò1
+L	java:S106"+Replace this use of System.out by a logger.(Ô²À¯ûÿÿÿÿ8äÕ±Ò1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(¬»°8äÕ±Ò1
+L	java:S106"+Replace this use of System.out by a logger.(¡é¸öûÿÿÿÿ8åÕ±Ò1
+h
+java:S2677#"LUse or store the value returned from "readLine" instead of throwing it away.(î¾êv8èÕ±Ò1
+L	java:S106="+Replace this use of System.err by a logger.(°£Ö‹üÿÿÿÿ8ëÕ±Ò1
